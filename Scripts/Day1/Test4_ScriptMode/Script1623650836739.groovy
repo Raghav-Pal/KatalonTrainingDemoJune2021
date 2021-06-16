@@ -37,5 +37,7 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Welcome Paul'))
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Logout'))
 
+WebUI.verifyTextPresent('ABCD123', false)
+
 WebUI.closeBrowser()
 
