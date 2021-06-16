@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Try Testing This/input_Last
 
 WebUI.click(findTestObject('Object Repository/Page_Try Testing This/input_Male_gender'))
 
-WebUI.click(findTestObject('Page_OrangeHRM/Page_OrangeHRM/a_Logout'))
+not_run: WebUI.click(findTestObject('Page_OrangeHRM/Page_OrangeHRM/a_Logout'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Try Testing This/select_Option                  Option 1    _1847e3'), 
     'option 1', true)

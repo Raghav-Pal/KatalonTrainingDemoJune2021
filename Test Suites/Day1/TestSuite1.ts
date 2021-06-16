@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>88e9c46a-268d-47be-896e-651ed96b5cde</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Day1/Test2_Recorded</testCaseId>
    </testCaseLink>
    <testCaseLink>
